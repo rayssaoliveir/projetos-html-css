@@ -1,0 +1,45 @@
+body{
+	background-image: url('imagens/fundo.png');
+	background-color: #d2d2c1
+	font-size:16px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+h1{
+	color: 828271;
+	font-size: 1.2em;
+}
+p{
+	color: black;
+	font-size: 17px;
+	font-family: "Times New Roman",Times, serif;
+}
+
+.titulo{
+	color: #6E6E6E;
+	font-size: 20px;
+	font-family: "Times New Roman",Times, serif;
+}
+.imagens{
+	border: 10px solid #c3ceAE;
+}
+
+#principal{
+	width: 900px;
+}
+#menu{
+	background-color: #c5c5b2;
+	padding: 18px;
+}
+#corpo{
+	background-color: #e8e8d9;
+	padding: 10px;
+}
+#rodape{
+	text-align: center;
+}
